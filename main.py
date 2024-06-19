@@ -1,5 +1,4 @@
 def main():
-
     # Comlete your code here
     # Use the same variables: celsius fahrenheit 
     celsius = float(input('Enter the temperature in celsius'))
@@ -7,7 +6,6 @@ def main():
     print(f'Fahrenheit: {fahrenheit:2.f}')
 
     # Do not delete the return statement
-
     return celsius, fahrenheit
 
 
